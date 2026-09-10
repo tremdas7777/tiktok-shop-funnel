@@ -55,7 +55,7 @@ body {
 }
 
 #loja-nome:empty::before {
-  content: 'Creamy Skincare';
+  content: 'ASICS';
 }
 
 @media (min-width: 481px) {

@@ -513,7 +513,7 @@ window.scrollToTop = scrollToTop;
 
         // Garantia
         const garantiaInfo = document.getElementById('garantia-produto');
-        if (garantiaInfo) garantiaInfo.innerHTML = produto.garantia || 'Garantia de satisfaÃ§Ã£o';
+        if (garantiaInfo) garantiaInfo.innerHTML = produto.garantia || 'Garantia de satisfação';
 
         // DescriÃ§Ã£o, EspecificaÃ§Ãµes, Diferenciais
         const descDinamica = document.getElementById('descricao-produto-dinamica');
@@ -610,26 +610,19 @@ window.scrollToTop = scrollToTop;
 })();
 
 
-// Prefer a WebP variant for the store logo when available (non-destructive fallback)
-(function preferLogoWebp() {
+// Garante fallback da logo da loja (ASICS)
+(function ensureStoreLogo() {
     try {
         var logoEl = document.getElementById('store-logo');
         if (!logoEl) return;
-        var resolved = logoEl.getAttribute('src') || logoEl.getAttribute('data-default-logo') || '';
-        if (!resolved) return;
-        // preserve querystrings
-        var webpCandidate = resolved.replace(/(\.[^./?]+)(\?.*)?$/, '.webp$2');
-        var imgTest = new Image();
-        imgTest.onload = function () {
-            // only switch if the loaded image has positive dimensions
-            if (imgTest.naturalWidth && imgTest.naturalHeight) {
-                logoEl.src = webpCandidate;
-            }
+        var fallback = logoEl.getAttribute('data-default-logo') || '/uploads/asics-logo.jpg';
+        logoEl.onerror = function () {
+            logoEl.onerror = null;
+            logoEl.src = fallback;
         };
-        imgTest.onerror = function () { /* webp not available, keep original */ };
-        imgTest.src = webpCandidate;
+        if (!logoEl.getAttribute('src')) logoEl.src = fallback;
     } catch (e) {
-        console.warn('preferLogoWebp error', e);
+        console.warn('ensureStoreLogo error', e);
     }
 
 

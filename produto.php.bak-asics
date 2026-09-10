@@ -548,21 +548,6 @@
     <script>if(!window._twLoaded){window._twLoaded=1;document.write('<scr\x69pt src="https://cdn.tailwindcss.com/"><\/scr\x69pt>');}</script>
     <script>window.LANG={"account":"Conta","add_more_for_free_shipping":"Adicione mais produtos para liberar o frete grátis.","add_to_cart":"Adicionar ao Carrinho","add_to_favorites":"Adicionar aos favoritos","add_to_order":"Adicionar ao pedido","added_to_cart":"Adicionado ao carrinho","added_to_favorites":"Produto adicionado aos favoritos","added_to_order":"Adicionado ao pedido","address":"Endereço","affiliates":"Afiliados","ai_summary":"Resumo de opiniões gerado por IA","album_and_pack_added":"Álbum e pacote adicionados ao carrinho.","all":"Tudo","already_in_cart":"Este produto já está no seu carrinho.","applied_discounts":"Descontos aplicados","arrives_by":"Receba até {date}","arrives_tomorrow":"Chega amanhã!","auto_refund_damages":"Reembolso automático por danos","back":"Voltar","back_to_home":"Voltar para a página inicial","back_to_top":"Voltar ao topo","best_seller":"MAIS VENDIDO","best_seller_pill":"MAIS VENDIDO","best_selling":"Mais vendidos","brands_featured":"Marcas em destaque","buy_now":"Comprar","buy_now_cta":"Comprar agora","buy_sell_with_app":"Compre e venda com o app!","cancel":"Cancelar","cart":"Carrinho","cart_empty":"Seu carrinho está vazio.","cart_summary":"Resumo do carrinho","categories":"Categorias","categories_coming_soon":"Em breve categorias e filtros.","checkout":"FINALIZAR COMPRA","choose_quantity":"Escolha quantidade","city":"Cidade","close":"Fechar","color":"Cor","complement":"Complemento (opcional)","contact":"Contato","continue_checkout":"Continuar","continue_shopping":"Continuar comprando","copy_coupon_error":"Não foi possível copiar o cupom.","copy_link":"Copiar Link","copy_pix":"COPIAR CÓDIGO PIX","coupon_copied":"Cupom \"{code}\" copiado!","coupon_expired":"O cupom expirou","coupon_expires":"O cupom expira em {time}","coupon_free_shipping":"Cupom de frete grátis","coupon_late_pickup":"Cupom por atraso na coleta","cpf_cnpj":"CPF \/ CNPJ","create_account":"Crie a sua conta","creator":"Criador","creator_video":"Vídeo do criador","creator_videos":"Vídeos dos criadores","creator_videos_subtitle":"Conteúdo enviado por quem testou","customer_protection":"Proteção do cliente","customer_reviews_count":"Avaliações dos clientes ({n})","data_privacy_notice":"Seus dados são tratados conforme a legislação vigente e usados apenas para processar pedidos e atendimento.","day_ago":"Há 1 dia","days_ago":"Há {n} dias","default_variation":"Padrão","delivery":"Entrega","description":"Descrição","differentials":"Diferenciais","discount":"Desconto","discounts":"Descontos","email":"E-mail","encrypted_data":"Dados criptografados","ends_in":"Termina em {time}","err_cnpj_invalid":"CNPJ inválido. Verifique o número.","err_cpf_invalid":"CPF inválido. Verifique o número.","err_cpf_required":"Informe CPF ou CNPJ.","err_ddd_invalid":"DDD inválido.","err_email_invalid":"E-mail inválido. Ex: nome@dominio.com","err_email_required":"Informe seu e-mail.","err_name_required":"Informe seu nome completo.","err_name_surname":"Digite nome e sobrenome.","err_number_required":"Informe o número.","err_phone_incomplete":"Telefone incompleto. Use (DDD) + número.","err_phone_required":"Informe seu telefone.","err_zip_digits":"CEP deve ter 8 dígitos.","err_zip_invalid":"CEP inválido ou não encontrado.","extra_item_added":"Item adicional adicionado ao carrinho.","extra_item_in_cart":"Esse item já está no carrinho.","favorites":"Favoritos","flash_sale":"Oferta Relâmpago","follow":"Seguir","followers":"Seguidores","following":"Seguindo","free":"GRÁTIS","free_return":"Devolução grátis. Você tem 30 dias a partir da data de recebimento.","free_return_label":"Devolução gratuita","free_returns_label":"Devoluções gratuitas em 30 dias • Cancelamento fácil","free_ship_first_add":"Aproveite o frete grátis na sua primeira compra adicionando mais produtos","free_shipping":"Frete grátis","free_shipping_above":"FRETE GRÁTIS ACIMA DE R$ {value}","free_shipping_activated":"Frete grátis ativado","free_shipping_arrive":"Frete grátis — chega {date}","free_shipping_first":"Frete grátis por ser sua primeira compra","free_shipping_missing":"Faltam R$ {amount} para liberar o frete grátis.","free_shipping_unlocked":"Frete grátis liberado no checkout!","full_name":"Nome completo","gift_exchange":"Vale-troca para presente","gift_exchange_text":"A pessoa que o receber poderá trocá-lo.","go_to_delivery":"Ir para entrega","go_to_payment":"Ir para pagamento","gratis":"Grátis","guarantee_return":"Garantir a devolução caso necessário","guarantee_text":"Receba o produto que está esperando ou devolvemos o dinheiro.","guaranteed_purchase":"Compra Garantida","helpful":"Útil","history":"Histórico","home":"Início","home_tab":"Página inicial","hour_ago":"Há 1 hora","hours_ago":"Há {n} horas","identification":"Identificação","image_load_error":"Erro ao carregar imagem","in_stock":"Estoque disponível","includes_media":"Inclui imagens ou vídeos","insert_coupon":"Inserir código do cupom","installments":"em {n}× R$ {value} sem juros","item_label":"Item:","learn_more":"Saiba mais","likes_count":"{n} curtidas","link_copied":"Link copiado!","loading":"Carregando...","loading_shipping":"Carregando fretes...","login":"Entre","main_products":"Principais produtos","message":"Mensagem","ml_card_badge":"CARTÃO","ml_free_ship_subtitle":"em milhares de produtos","ml_installment_payment":"Pagamento parcelado","ml_offer_badge":"OFERTA","ml_secure_purchase":"Compra 100% segura","ml_shipping_badge":"ENVIO","ml_twelve_installments":"12x sem juros","ml_via_card":"no cartão","money_back":"Receba o produto que está esperando ou devolvemos o dinheiro.","month_ago":"Há 1 mês","months_ago":"Há {n} meses","more_delivery_details":"Mais detalhes e formas de entrega","more_from_store":"Mais desta loja","my_account":"Minha conta","n_options_available":"{n} opções disponíveis","neighborhood":"Bairro","new":"Novo","new_arrivals":"Lançamentos","no_comments":"Sem comentário.","no_comments_available":"Nenhum comentário disponível.","no_creator_videos":"Nenhum vídeo de criador disponível no momento.","no_description":"Sem descrição cadastrada.","no_image":"Sem imagem","no_interest":"sem juros","no_minimum_spend":"Sem gasto mínimo","no_products_found":"Nenhum produto encontrado.","no_products_now":"Nenhum produto disponível no momento.","no_reviews_yet":"Nenhuma avaliação ainda.","no_shipping_options":"Nenhuma opção de frete disponível.","no_variations":"Este produto não possui variações cadastradas.","now_following":"Agora você está seguindo a conta desta loja no TikTok","number":"Número","offer_ends_in":"Oferta termina em","offer_irresistible":"OFERTA IMPERDÍVEL","offer_redeemed":"Oferta resgatada com sucesso!","offers":"Ofertas","official_store":"Loja Oficial","official_stores":"Lojas oficiais","on_delivery":"Entrega no prazo","on_selected_products":"Em produtos selecionados","on_time_delivery":"Entrega no prazo","open_cart":"Abrir carrinho","order_summary":"Resumo do Pedido","out_of_stock":"Esgotado","overview":"Visão geral","payment":"Pagamento","payment_method":"Forma de pagamento","perfect_for_pct":"Perfeito para {pct}%","phone":"Telefone \/ WhatsApp","photo_reviews":"Opiniões com fotos","pix_cash":"PIX à vista","pix_charge_error":"Falha ao gerar cobrança Pix.","pix_copied":"CÓDIGO COPIADO!","pix_copy_error":"Erro ao copiar o código PIX.","pix_error":"Não foi possível gerar o Pix. Tente novamente.","pix_invalid_response":"Resposta inválida do provedor Pix.","pix_unavailable":"Código PIX não disponível.","policies_privacy":"Políticas e Privacidade","preparing_purchase":"Preparando tudo para\nsua compra","price_filter":"Preço","privacy_policy":"Política de Privacidade","processing":"Processando...","product":"Produto","product_description":"Descrição do Produto","product_image":"Imagem do Produto","product_image_fullscreen":"Imagem do produto em tela cheia","product_not_found":"Produto não encontrado.","products":"Produtos","products_load_error":"Erro ao carregar produtos.","promotion":"Promoção","purchases":"Compras","quantity":"Quantidade","rating_aria":"Avaliação {nota} de 5. {n} opiniões.","read_less":"Ler menos","recently":"Recentemente","recommendations":"Recomendações","recommended":"Recomendado para você","recommended_filter":"Recomendado","redeem":"Resgatar","redeem_free_shipping":"Resgatar frete grátis","redeem_now":"Resgatar agora","redeem_offer":"Resgatar Oferta","redeemed":"Oferta resgatada","related_products":"Produtos relacionados","report":"Denunciar","reviews":"Opiniões do produto","reviews_short":"Opiniões","reviews_summary":"Resumo e classificação dos clientes","sales":"Vendas","save_percent_with":"Economize {n}% com","saving_amount":"Você está economizando {amount} neste pedido.","search":"Buscar","search_placeholder":"Digite o que você quer encontrar","search_results":"Resultados: \"{q}\"","search_terms":"Termos mais procurados","searching":"Estou buscando...","searching_zip":"Buscando CEP...","secure_payment":"Pagamento 100% seguro","see_all":"Ver todos","see_full_description":"Ver descrição completa","see_less":"Ver menos","see_more":"Ver mais","see_options":"Ver opções","see_payment_methods":"Ver os meios de pagamento","see_products":"Ver produtos","select_color":"Selecione a cor...","select_color_first":"Selecione a cor para continuar.","select_min_item":"Selecione pelo menos 1 item para continuar","select_shipping":"Selecione o frete","select_shipping_first":"Selecione um frete antes de finalizar.","select_size":"Selecione o tamanho...","select_variation":"Selecione uma especificação","select_variation_first":"Selecione uma variação para continuar.","sell":"Vender","seller":"Vendedor","send_receipt":"Enviar o comprovante de compra","share":"Compartilhar","shipping":"Frete","shipping_fee_label":"Taxa de envio: {value}","shipping_load_error":"Não foi possível carregar as opções de frete.","shipping_paid_arrive":"Frete: R$ {value} — chega {date}","show_all_reviews":"Mostrar todas as opiniões","show_more_categories":"Mostrar mais categorias","size":"Tamanho","size_guide":"Guia de tamanhos","sold_by":"Vendido por","sold_count":"{n} vendido(s)","some_items_already_in_cart":"Alguns itens já estavam no carrinho.","sort_price_desc":"Ordenando por preço: maior para menor.","state":"Estado","stock_available":"Estoque disponível","store":"Loja","store_reviews":"Avaliações da loja","stores":"Lojas","subtotal":"Subtotal","taxes_included":"Impostos inclusos","tech_specs":"Especificações Técnicas","thumbnail":"Miniatura","to_define":"A definir","today":"Hoje","total":"Total","total_calc_error":"Não foi possível calcular o total do pedido.","track_order":"Acompanhar o andamento do pedido","unavailable":"Indisponível","unique_color":"Cor única","unique_size":"Tamanho único","unit_plural":"{n} unidades","unit_singular":"1 unidade","user":"Usuário","variations":"Variações","view_grid":"Visualizar em bloco","view_list":"Visualizar em lista","want_this":"Quero esse item","warranty":"Garantia","week_ago":"Há 1 semana","weeks_ago":"Há {n} semanas","welcome_to":"Bem-vindo à","why_we_need":"Por que precisamos desses dados?","won_free_shipping":"Você ganhou frete grátis!","your_cart":"Seu Carrinho","zip_autofilled":"Endereço preenchido automaticamente.","zip_code":"CEP","zoom_image":"Ampliar imagem"};window.t=function(k,v){var s=window.LANG[k]||k;if(v)Object.keys(v).forEach(function(p){s=s.replace(new RegExp('{'+p+'}','g'),v[p]);});return s;};</script>
     <script>window.EXIBIR_TAG_OFICIAL = true;window.EXIBIR_TAG_TORCER = true;</script>
-    <script>
-      window.voltarLoja = function (e) {
-        if (e) e.preventDefault();
-        if (location.protocol !== 'file:' && window.history.length > 1 && document.referrer) {
-          try {
-            if (document.referrer.indexOf(location.origin) === 0) {
-              history.back();
-              return false;
-            }
-          } catch (err) {}
-        }
-        location.href = 'index.html';
-        return false;
-      };
-    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <title>Shop</title>
@@ -1871,6 +1856,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <title>Shop</title>
     <link href="stylesss.css?v=1788753804" rel="stylesheet">
+    <link href="mobile-fix.css" rel="stylesheet">
+    <link href="mobile-fix.css" rel="stylesheet">
     <style>
         /* Deixa o CTA do modal flutuando (sticky) como no index + compat iOS */
         #buy-positions {
@@ -2236,7 +2223,7 @@
 
                 const cart = document.createElement('a');
                 cart.className = 'creator-video-modal__cart';
-                cart.href = 'index.html';
+                cart.href = 'index.php';
                 cart.setAttribute('aria-label', 'Comprar');
                 const cartIconWrap = document.createElement('span');
                 cartIconWrap.className = 'creator-video-modal__cart-icon';
@@ -2363,76 +2350,6 @@
             });
         }
     </script>
-    <script>
-    (function () {
-      var paramId = new URLSearchParams(location.search).get('produto_id');
-      if (!paramId) return;
-      document.documentElement.classList.add('produto-carregando');
-      var FALLBACK = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
-      function resolveBootMedia(path) {
-        if (!path) return '';
-        if (/^https?:/i.test(path) || /^data:/i.test(path)) return path;
-        var raw = String(path).trim().replace(/^\.\/+/, '');
-        return raw.charAt(0) === '/' ? raw : '/' + raw;
-      }
-      window.__produtoBootPromise = fetch('produtos.json?t=' + Date.now(), { cache: 'no-store' })
-        .then(function (r) { return r.ok ? r.json() : []; })
-        .then(function (list) {
-          if (!Array.isArray(list)) return null;
-          var p = list.find(function (x) { return String(x.id) === String(paramId); });
-          window.__produtoBoot = p || null;
-          return p;
-        });
-      window.__applyProdutoBootImage = function () {
-        var p = window.__produtoBoot;
-        var mainImg = document.getElementById('main-product-image');
-        if (!p || !mainImg) return;
-        var foto = resolveBootMedia((p.fotos && p.fotos[0]) || p.imagem || '');
-        if (!foto) {
-          document.documentElement.classList.remove('produto-carregando');
-          return;
-        }
-        var preload = new Image();
-        preload.onload = function () {
-          mainImg.src = foto;
-          mainImg.style.opacity = '1';
-          var loadingEl = document.getElementById('image-loading');
-          if (loadingEl) loadingEl.style.display = 'none';
-          document.documentElement.classList.remove('produto-carregando');
-        };
-        preload.onerror = function () {
-          mainImg.src = FALLBACK;
-          document.documentElement.classList.remove('produto-carregando');
-        };
-        preload.src = foto;
-      };
-      document.addEventListener('DOMContentLoaded', function () {
-        if (window.__produtoBoot) window.__applyProdutoBootImage();
-        else if (window.__produtoBootPromise) {
-          window.__produtoBootPromise.then(function () { window.__applyProdutoBootImage(); });
-        }
-      });
-    })();
-    </script>
-    <style>
-    html.produto-carregando #product-title,
-    html.produto-carregando #rating-text,
-    html.produto-carregando #price-current,
-    html.produto-carregando #price-compare,
-    html.produto-carregando #discount-percent { visibility: hidden; }
-    html.produto-carregando #main-product-image { opacity: 0 !important; }
-    html.produto-carregando #image-loading {
-      display: flex !important;
-      align-items: center;
-      justify-content: center;
-      position: absolute;
-      inset: 0;
-      background: #fff;
-      color: #9ca3af;
-      font-size: 13px;
-      z-index: 1;
-    }
-    </style>
 </head>
 
 <body style="overflow-x:hidden;overscroll-behavior-y:contain;touch-action:pan-y;">
@@ -2482,10 +2399,10 @@
         <!-- Header -->
         <header id="main-header" class="header">
             <div class="header-left"></div>
-            <a href="index.html" onclick="return voltarLoja(event);" aria-label="Voltar para a página inicial"
-                style="display: inline-flex; align-items: center; cursor: pointer; position: relative; z-index: 10;">
+            <a href="index.php" aria-label="Voltar para a página inicial"
+                style="display: inline-flex; align-items: center;">
                 <img src="/uploads/simbolo-da-linha-de-seta-para-a-esquerda.png" alt="Voltar" width="20" height="20"
-                    style="display:block; pointer-events: none;">
+                    style="display:block;">
             </a>
             <div class="flex-1" style="padding:0 8px;min-width:0;overflow:hidden;">
                 <div style="display:flex;align-items:center;gap:6px;background:#f0f0f0;border-radius:8px;padding:8px 10px;overflow:hidden;">
@@ -2500,7 +2417,7 @@
                 <button onclick="handleOpenShareSection()">
                     <img src="/uploads/compartilhar.png" alt="Compartilhar" width="23" height="23">
                 </button>
-                <a href="cart.html"
+                <a href="cart.php"
                     style="position: relative; text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
                     <img src="/uploads/carrinho-de-compras.png" alt="Compartilhar" width="23" height="23">
 
@@ -2531,7 +2448,7 @@
             <div class="image-container">
                                 <img alt="Imagem do Produto" class="product-main-image" id="main-product-image"
                     src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
-                    style="display:block;"
+                    style="display:block;opacity:1;"
                     onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';">
                 <div class="image-loading" id="image-loading">Carregando...</div>
                 <div class="image-counter" id="image-counter">1/1</div>
@@ -2583,7 +2500,7 @@
         <section class="product-info" style="padding: 6px 16px 2px 16px;">
             <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 12px;">
                 <h1 id="product-title" class="product-title"
-                    style="flex: 1; font-size: 16px; margin: 0; line-height: 1.3;"></h1>
+                    style="flex: 1; font-size: 16px; margin: 0; line-height: 1.3;"><img src="/uploads/tagoficial.png" style="height:14px;width:auto;vertical-align:middle;margin-right:4px;display:inline;"><img src="/uploads/tagtorcer.png" style="height:14px;width:auto;vertical-align:middle;margin-right:4px;display:inline;"></h1>
                 <button id="save-button"
                     style="background: none; border: none; cursor: pointer; padding: 4px; display: flex; align-items: center; justify-content: center; border-radius: 50%; transition: all 0.2s ease;"
                     onclick="toggleSave()">
@@ -2601,7 +2518,18 @@
                         </path>
                     </svg>
                 </span>
-                <span id="rating-text" class="rating-text" style="font-size: 12px; color: #888;"></span>
+                <span id="rating-text" class="rating-text" style="font-size: 12px; color: #888;">4.7 (204) 4473
+                    <span id="rating-text" class="rating-text" style="font-size: 12px; color: #888;">4.7 (<span
+                            style="color:#2196f3;font-weight:700;">204</span>) 4473 vendidos</span>
+                    <script>
+                        // Deixa o número (204) azul na avaliação
+                        document.addEventListener('DOMContentLoaded', function () {
+                            var ratingText = document.getElementById('rating-text');
+                            if (ratingText) {
+                                ratingText.innerHTML = ratingText.innerHTML.replace(/\((\d+)\)/, '(<span style="color:#2196f3;font-weight:700;">$1</span>)');
+                            }
+                        });
+                    </script>
             </div>
         </section>
         <!-- Shipping Info -->
@@ -2771,7 +2699,7 @@
             <div class="creator-video-modal__content">
                 <button class="creator-video-modal__close" type="button" aria-label="Fechar">×</button>
                 <div class="creator-video-modal__media" id="creator-video-modal-media">
-                    <a class="creator-video-modal__cart" href="index.html" aria-label="Comprar">
+                    <a class="creator-video-modal__cart" href="index.php" aria-label="Comprar">
                         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4h-2l-1 2v2h2l2-2h6l2 2h2v-2l-1-2h-2l-1-2h-4l-1 2zM5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8H5zm4 3h2v6H9v-6zm4 0h2v6h-2v-6z"></path></svg>
                     </a>
                 </div>
@@ -2829,7 +2757,7 @@
 
                 <!-- Bottom Navigation -->
                 <nav class="bottom-nav">
-                    <a class="nav-item" href="index.html">
+                    <a class="nav-item" href="index.php">
                         <img class="nav-icon" src="/uploads/iconeloja_black.png" alt="Loja" width="46" height="46">
                         <span>Loja</span>
                     </a>
@@ -2844,7 +2772,7 @@
                     </a>
                 </nav>
 
-                <!-- Modal de seleção (novo padrão clonado do index.html) -->
+                <!-- Modal de seleção (novo padrão clonado do index.php) -->
                 <div id="meuModal" class="fixed inset-0 bg-black bg-opacity-50 items-end justify-center" style="z-index:9500;display:none;" onclick="if(event.target===this)fecharModal()">
                 <div class="bg-white p-4 w-full max-w-lg relative" style="position:fixed; bottom:0; left:0; right:0; overflow-y: auto; -webkit-overflow-scrolling: touch; max-height: 85vh; box-shadow: none; border-radius:0; margin:0 auto; max-width:480px; padding-bottom: calc(16px + env(safe-area-inset-bottom));">
                 <button onclick="fecharModal()" class="absolute top-2 right-2 text-gray-500 hover:text-red-600 text-xl font-bold" aria-label="Fechar">×</button>
@@ -2964,14 +2892,14 @@
                 <div style="display:flex;align-items:center;justify-content:space-between;">
                     <div style="display:flex;align-items:center;gap:14px;flex:1;min-width:0;">
                         <div style="width:56px;height:56px;min-width:56px;border-radius:999px;background:#d1d5db;overflow:hidden;flex-shrink:0;">
-                            <img id="store-logo" src="/uploads/asics-logo.jpg" data-default-logo="/uploads/asics-logo.jpg" alt="Logo ASICS" style="width:100%;height:100%;object-fit:contain;display:block;background:#fff;padding:6px;box-sizing:border-box;" loading="lazy">
+                            <img id="store-logo" src="" data-default-logo="images/belilogo.png" alt="Logo" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">
                         </div>
                         <div style="min-width:0;flex:1;">
-                            <p id="store-nome" style="font-size:16px;font-weight:700;color:#111;margin:0;line-height:1.2;">Shop</p>
+                            <p id="store-nome" style="font-size:16px;font-weight:700;color:#111;margin:0;line-height:1.2;">ASICS</p>
                             <div style="display:flex;align-items:center;gap:0;margin-top:3px;"><img src="/uploads/taglojaestrela.png" style="height:15px;max-width:70px;width:auto;display:block;flex-shrink:0;margin-right:5px;"><p id="store-vendidos" style="font-size:12px;color:#666;margin:0;">- vendido(s)</p></div>
                         </div>
                     </div>
-                    <a href="index.html" style="flex-shrink:0;background:#fe2d55;color:#fff;font-size:14px;font-weight:600;padding:8px 22px;border-radius:999px;text-decoration:none;white-space:nowrap;">Visitar</a>
+                    <a href="index.php" style="flex-shrink:0;background:#fe2d55;color:#fff;font-size:14px;font-weight:600;padding:8px 22px;border-radius:999px;text-decoration:none;white-space:nowrap;">Visitar</a>
                 </div>
                 <div style="display:flex;gap:20px;padding:12px 0 14px;border-top:1px solid #f5f5f5;margin-top:12px;">
                     <span style="font-size:12px;color:#555;"><b style="color:#111;">94%</b> responde em 24h</span>
@@ -3078,7 +3006,7 @@
                         card.className = 'mais-desta-loja-card';
                         card.style.cursor = 'pointer';
                         card.onclick = function() {
-                            window.location.href = 'produto.html?produto_id=' + encodeURIComponent(prod.id);
+                            window.location.href = 'produto.php?produto_id=' + encodeURIComponent(prod.id);
                         };
                         const descontoFmt = formatDesconto(prod.desconto);
                         const fotoCard = resolveMediaPath((Array.isArray(prod.fotos) && prod.fotos[0]) ? prod.fotos[0] : (prod.imagemPrincipal || prod.imagem || '')) || FALLBACK_MEDIA;
@@ -3103,7 +3031,7 @@
                 const el = document.getElementById('comentario-destaque');
                 if (!el) return;
                 if (produto.comentarios && produto.comentarios.length) {
-                    el.textContent = produto.comentarios[0].descricao || produto.comentarios[0].texto || t('no_comments');
+                    el.textContent = produto.comentarios[0].texto || t('no_comments');
                 } else {
                     el.textContent = t('no_comments_available');
                 }
@@ -3204,22 +3132,12 @@
                 .then(resp => resp.ok ? resp.json() : null)
                 .then(data => {
                     // Corrige: se logo for null, undefined ou vazio, usa o default
-                    var logoUrl = '/uploads/asics-logo.jpg';
+                    var logoUrl = 'images/belilogo.png';
                     if (data && data.logo && typeof data.logo === 'string' && data.logo.trim() !== '') {
                         const logoPath = data.logo.startsWith('http') ? data.logo : data.logo.replace(/^\/\/+/, '');
                         logoUrl = logoPath.startsWith('http') ? logoPath : logoPath;
                     }
-                    if (data && data.logo_updated_at) {
-                        logoUrl += (logoUrl.indexOf('?') >= 0 ? '&' : '?') + 'v=' + encodeURIComponent(data.logo_updated_at);
-                    }
-                    var storeLogo = document.getElementById('store-logo');
-                    if (storeLogo) {
-                        storeLogo.onerror = function () {
-                            storeLogo.onerror = null;
-                            storeLogo.src = '/uploads/asics-logo.jpg';
-                        };
-                        storeLogo.src = logoUrl;
-                    }
+                    document.getElementById('store-logo').src = logoUrl;
                     if (data && data.nome) {
                         // Atualiza o nome da loja dinamicamente
                         var nomeEl = document.getElementById('store-nome');
@@ -3234,13 +3152,13 @@
                                 const vendidos = produtos.reduce((acc, p) => acc + (parseInt(p.quantidade_produtos || p.vendidos || 0, 10)), 0);
                                 const vendidosEl = document.getElementById('store-vendidos');
                                 if (vendidosEl) vendidosEl.textContent = t('sold_count', {n: vendidos});
-                                // Buscar produto pelo ID da URL (prioriza boot antecipado)
+                                // Buscar produto pelo ID da URL
+                                let produto = produtos[0];
                                 const paramId = getUrlParam('produto_id');
-                                let produto = window.__produtoBoot || null;
-                                if (!produto && paramId !== null) {
-                                    produto = produtos.find(p => String(p.id) === String(paramId)) || null;
+                                if (paramId !== null) {
+                                    const found = produtos.find(p => String(p.id) === String(paramId));
+                                    if (found) produto = found;
                                 }
-                                if (!produto) produto = produtos[0];
                                 // Normaliza caminhos de imagens para aceitar com ou sem barra inicial
                                 const fotosBase = normalizeFotoList(produto.fotos || produto.imagens || (produto.imagem ? [produto.imagem] : []));
                                 produto.fotos = fotosBase.length ? fotosBase : [];
@@ -3277,11 +3195,8 @@
 
                                 // Atualiza o número azul na avaliação do produto
                                 const ratingText = document.getElementById('rating-text');
-                                if (ratingText && produto) {
-                                    const notas = produto.notas || '5';
-                                    const reviewCount = Array.isArray(produto.comentarios) ? produto.comentarios.length : 0;
-                                    const vendidos = produto.quantidade_produtos || 0;
-                                    ratingText.innerHTML = notas + ' (<span style="color:#2196f3;font-weight:700;">' + reviewCount + '</span>) ' + vendidos + ' vendidos';
+                                if (ratingText) {
+                                    ratingText.innerHTML = ratingText.innerHTML.replace(/\((\d+)\)/, '<span style="color:#2196f3;font-weight:700;">($1)</span>');
                                 }
 
                                 // Renderizar avaliações dinâmicas
@@ -3551,55 +3466,53 @@
             <section id="recomendacoes" style="padding:16px;margin-top:4px;">
         <p style="font-size:15px;font-weight:700;color:#111;margin-bottom:12px;padding:0 2px;border-left:3px solid #fe2d55;padding-left:10px;">Você também pode gostar</p>
         <div id="recomendacoes-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:10px;"></div>
-    </section>
     <script>
     (function () {
-      function fmt(v) { return Number(v || 0).toFixed(2).replace('.', ','); }
-      function pct(p) {
-        var preco = Number(p.preco || 0), comp = Number(p.preco_comparacao || p.precoComparacao || 0);
-        return comp > preco ? Math.round(((comp - preco) / comp) * 100) : Math.round(Number(p.desconto || 0));
+      function fmt(v) {
+        var n = Number(v || 0);
+        return n.toFixed(2).replace('.', ',');
       }
-      function cardHtml(p) {
-        var img = (Array.isArray(p.fotos) && p.fotos[0]) ? p.fotos[0] : '';
-        var url = 'produto.html?produto_id=' + encodeURIComponent(p.id);
-        return '<div onclick="window.location.href=\'' + url + '\'" style="background:#fff;border:1px solid #f3f4f6;border-radius:12px;padding:10px;display:flex;flex-direction:column;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,0.06);min-width:0;">'
-          + '<div style="width:100%;height:140px;margin-bottom:8px;border-radius:6px;overflow:hidden;background:#f9f9f9;"><img src="' + img + '" alt="" style="width:100%;height:100%;object-fit:contain;display:block;" loading="lazy"></div>'
-          + '<div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;"><div>'
-          + '<div style="display:flex;align-items:center;gap:4px;margin-bottom:3px;"><img src="/uploads/tagoficial.png" style="height:12px;width:auto;"><img src="/uploads/tagtorcer.png" style="height:12px;width:auto;"></div>'
-          + '<div style="font-size:12px;font-weight:600;color:#111;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:5px;height:32px;">' + (p.titulo || '') + '</div>'
-          + '<div style="display:flex;gap:3px;margin-bottom:4px;"><span style="background:#ffd0d9;color:#d6003a;font-size:9.5px;font-weight:700;padding:0 5px;border-radius:3px;display:inline-flex;align-items:center;gap:2px;height:15px;"><img src=\'/uploads/bilhete.png?v=2\' width=\'9\' height=\'9\'/>' + pct(p) + '% OFF</span></div>'
-          + '<div style="margin-bottom:4px;"><span style="background:#b2f0f5;color:#006875;font-size:9.5px;font-weight:700;padding:0 5px;border-radius:3px;height:15px;display:inline-flex;align-items:center;">Frete grátis</span></div>'
-          + '<div style="display:flex;align-items:center;gap:3px;margin-bottom:4px;"><span style="color:#f59e0b;font-size:11px;">★</span><span style="font-size:10px;color:#6b7280;">' + (p.notas || '5') + ' | ' + (p.quantidade_produtos || 0) + ' vendido(s)</span></div>'
-          + '</div><div style="display:flex;align-items:center;justify-content:space-between;margin-top:6px;"><div><div style="font-size:16px;font-weight:700;color:#fe2d55;">R$ ' + fmt(p.preco) + '</div>'
-          + '<div style="font-size:10px;color:#9ca3af;text-decoration:line-through;">R$ ' + fmt(Number(p.preco_comparacao || p.precoComparacao || p.preco)) + '</div></div>'
-          + '<button onclick="event.stopPropagation();_recOpenModal(' + p.id + ')" style="background:#ffe0e6;border:none;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;cursor:pointer;"><img src="/uploads/carrinho-rosa.png?v=3" style="width:28px;height:28px;object-fit:contain;"></button>'
-          + '</div></div></div>';
+      function renderRecGrid(produtos, atualId) {
+        var grid = document.getElementById('recomendacoes-grid');
+        if (!grid || !Array.isArray(produtos)) return;
+        var lista = produtos.filter(function (p) { return String(p.id) !== String(atualId); }).slice(0, 4);
+        grid.innerHTML = '';
+        lista.forEach(function (p) {
+          var img = (Array.isArray(p.fotos) && p.fotos[0]) ? p.fotos[0] : '';
+          var card = document.createElement('div');
+          card.style.cssText = 'background:#fff;border:1px solid #f3f4f6;border-radius:12px;padding:10px;display:flex;flex-direction:column;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,0.06);min-width:0;';
+          card.onclick = function () {
+            window.location.href = 'produto.php?produto_id=' + encodeURIComponent(p.id);
+          };
+          card.innerHTML = '<div style="width:100%;height:140px;margin-bottom:8px;border-radius:6px;overflow:hidden;background:#f9f9f9;"><img src="' + img + '" alt="" style="width:100%;height:100%;object-fit:contain;display:block;" loading="lazy"></div><div style="font-size:12px;font-weight:600;color:#111;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:5px;height:32px;">' + (p.titulo || '') + '</div><div style="font-size:16px;font-weight:700;color:#fe2d55;">R$ ' + fmt(p.preco) + '</div>';
+          grid.appendChild(card);
+        });
       }
       document.addEventListener('DOMContentLoaded', function () {
-        var atualId = new URLSearchParams(location.search).get('produto_id');
-        fetch('produtos.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : []; })
-          .then(function (list) {
-            var grid = document.getElementById('recomendacoes-grid');
-            if (!grid) return;
-            grid.innerHTML = list.filter(function (p) { return String(p.id) !== String(atualId); }).slice(0, 4).map(cardHtml).join('');
-          });
+        var params = new URLSearchParams(window.location.search);
+        var atualId = params.get('produto_id');
+        fetch('produtos.json?t=' + Date.now(), { cache: 'no-store' })
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .then(function (produtos) { renderRecGrid(produtos, atualId); })
+          .catch(function () {});
       });
     })();
     function _recOpenModal(id) {
-      fetch('produtos.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : []; })
-        .then(function (list) {
-          var p = list.find(function (x) { return String(x.id) === String(id); });
-          if (!p) return;
-          if (typeof normalizarProduto === 'function' && typeof abrirModalProduto === 'function') {
-            abrirModalProduto(normalizarProduto(p));
-          } else {
-            window.location.href = 'produto.html?produto_id=' + encodeURIComponent(id);
-          }
-        });
+        fetch('produtos.json?t=' + Date.now(), { cache: 'no-store' })
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .then(function (list) {
+            var p = list.find(function (x) { return String(x.id) === String(id); });
+            if (!p) return;
+            if (typeof normalizarProduto === 'function' && typeof abrirModalProduto === 'function') {
+              abrirModalProduto(normalizarProduto(p));
+            } else {
+              window.location.href = 'produto.php?produto_id=' + encodeURIComponent(id);
+            }
+          });
     }
     </script>
-
-<!-- Modal de tela cheia para imagens -->
+    
+    <!-- Modal de tela cheia para imagens -->
     <div id="fullscreen-container" class="fullscreen-modal">
         <span class="close-fullscreen" id="fullscreen-close">&times;</span>
         <div class="fullscreen-content">
@@ -3747,7 +3660,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js"></script>
 
-    <script src="js/cupons.js"></script>
     <script src="js/script.js?v=1788753804"></script>
     <script src="js/cart.js?v=1788753804"></script>
     <script>
@@ -3815,7 +3727,7 @@
         });
         // Removido wrapper duplicado de comprarAgora para evitar adição dupla ao carrinho
     </script>
-    <!-- Lógica do modal de variações clonada do index.html -->
+    <!-- Lógica do modal de variações clonada do index.php -->
     <script>
         let produtoSelecionado = null;
         let modalProdutoAtual = null;
@@ -3974,9 +3886,9 @@
         fotos: fotos.map(resolveMediaPath),
         variacoes,
         status: produto.status ?? 'ativo',
-        checkoutUrl: 'checkout.html?produto_id=' + encodeURIComponent(produto.id ?? ''),
+        checkoutUrl: 'checkout.php?produto_id=' + encodeURIComponent(produto.id ?? ''),
         // Página do produto (relativa) — usada para abrir a página de detalhe
-        pageUrl: 'produto.html?produto_id=' + encodeURIComponent(produto.id ?? ''),
+        pageUrl: (produto.slug ? (produto.slug + '/produto.php?produto_id=' + encodeURIComponent(produto.id ?? '')) : ('produto.php?produto_id=' + encodeURIComponent(produto.id ?? ''))),
         promo_ativa: !!produto.promo_ativa
       };
     }
@@ -4391,7 +4303,7 @@
         }
       }
 
-      const checkoutDefault = modalProdutoAtual?.checkoutUrl || 'checkout.html';
+      const checkoutDefault = modalProdutoAtual?.checkoutUrl || 'checkout.php';
       const itemAlbum = {
         produtoId: modalProdutoAtual?.id ?? null,
         variacaoId: variacaoPrincipal?.id ?? null,

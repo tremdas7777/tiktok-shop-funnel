@@ -93,8 +93,8 @@ def main():
 
     print("\n=== Mirroring JSON/JS config ===")
     configs = [
-        "loja.json",
-        "produtos.json",
+        "# loja.json",
+        "# produtos.json",
         "tiktok-config.js",
         "store-config.js",
     ]
