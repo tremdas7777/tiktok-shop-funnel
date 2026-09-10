@@ -6,7 +6,62 @@
     "logo": "/uploads/asics-logo.jpg",
     "logo_updated_at": 1789019000,
     "atualizado_em": "2026-09-10T01:35:00-03:00",
-    "categorias": [],
+    "categorias": [
+        {
+            "id": "masculino",
+            "nome": "Masculino",
+            "produto_ids": [
+                20001,
+                20003,
+                20005,
+                20008,
+                20010,
+                20011,
+                20014,
+                20015,
+                20016,
+                20017,
+                20019,
+                20021,
+                20024,
+                20032,
+                20035,
+                20036
+            ]
+        },
+        {
+            "id": "feminino",
+            "nome": "Feminino",
+            "produto_ids": [
+                20002,
+                20006,
+                20007,
+                20009,
+                20012,
+                20013,
+                20018,
+                20020,
+                20022,
+                20023,
+                20026,
+                20027,
+                20028,
+                20029,
+                20030
+            ]
+        },
+        {
+            "id": "unisex",
+            "nome": "Unisex",
+            "produto_ids": [
+                20004,
+                20025,
+                20031,
+                20033,
+                20034
+            ]
+        }
+    ],
     "cartinha_titulo_topo": "TÊNIS EM MOVIMENTO",
     "cartinha_desconto_texto": "70% OFF",
     "cartinha_subtitulo": "no seu pedido!",

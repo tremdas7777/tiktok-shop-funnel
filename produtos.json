@@ -6,7 +6,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -25,39 +25,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -365,7 +345,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -384,39 +364,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -724,7 +684,7 @@
         "preco": "249.97",
         "preco_comparacao": "999.90",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -743,39 +703,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -1083,7 +1023,7 @@
         "preco": "425.00",
         "preco_comparacao": "1699.99",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Unisex",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -1102,39 +1042,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
-                "autor": "Carla Maria",
-                "avatar": "/uploads/avatares/avatar_001.jpg"
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -1442,7 +1362,7 @@
         "preco": "249.75",
         "preco_comparacao": "999.00",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -1461,39 +1381,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
-                "autor": "Carla Maria",
-                "avatar": "/uploads/avatares/avatar_001.jpg"
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -1801,7 +1701,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -1820,39 +1720,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -2160,7 +2040,7 @@
         "preco": "177.62",
         "preco_comparacao": "355.25",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -2178,39 +2058,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -2518,7 +2378,7 @@
         "preco": "133.33",
         "preco_comparacao": "266.66",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -2537,39 +2397,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
             }
         ],
         "frete": "",
@@ -2877,7 +2717,7 @@
         "preco": "180.00",
         "preco_comparacao": "359.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -2895,39 +2735,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
-                "url": "/uploads/criador_sw.mp4",
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -3235,7 +3055,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -3254,39 +3074,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/criador_sw.mp4",
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -3594,7 +3394,7 @@
         "preco": "166.66",
         "preco_comparacao": "333.32",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -3613,39 +3413,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -3953,7 +3733,7 @@
         "preco": "177.62",
         "preco_comparacao": "355.25",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -3971,39 +3751,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
+            },
+            {
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -4311,7 +4071,7 @@
         "preco": "166.66",
         "preco_comparacao": "333.32",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -4330,39 +4090,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
+            },
+            {
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -4670,7 +4410,7 @@
         "preco": "333.33",
         "preco_comparacao": "666.66",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -4689,37 +4429,17 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             }
@@ -5029,7 +4749,7 @@
         "preco": "189.47",
         "preco_comparacao": "378.94",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -5048,39 +4768,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -5388,7 +5088,7 @@
         "preco": "161.04",
         "preco_comparacao": "322.09",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -5406,39 +5106,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -5746,7 +5426,7 @@
         "preco": "224.97",
         "preco_comparacao": "899.90",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -5765,39 +5445,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
             }
         ],
         "frete": "",
@@ -6105,7 +5765,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -6124,39 +5784,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -6464,7 +6104,7 @@
         "preco": "250.00",
         "preco_comparacao": "999.99",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -6483,39 +6123,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -6823,7 +6443,7 @@
         "preco": "189.47",
         "preco_comparacao": "378.94",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -6842,39 +6462,19 @@
         ],
         "videos": [
             {
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
+            },
+            {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
             }
         ],
         "frete": "",
@@ -7182,7 +6782,7 @@
         "preco": "300.00",
         "preco_comparacao": "599.99",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -7201,39 +6801,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -7541,7 +7121,7 @@
         "preco": "155.55",
         "preco_comparacao": "311.10",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -7560,39 +7140,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
+            },
+            {
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
+            },
+            {
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -7900,7 +7460,7 @@
         "preco": "178.94",
         "preco_comparacao": "357.89",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -7919,39 +7479,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -8259,7 +7799,7 @@
         "preco": "172.22",
         "preco_comparacao": "344.43",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -8278,39 +7818,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
-                "autor": "Carla Maria",
-                "avatar": "/uploads/avatares/avatar_001.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -8618,7 +8138,7 @@
         "preco": "425.00",
         "preco_comparacao": "1699.99",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Unisex",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -8637,39 +8157,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
+            },
+            {
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -8977,7 +8477,7 @@
         "preco": "166.66",
         "preco_comparacao": "333.32",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -8996,39 +8496,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
             }
         ],
         "frete": "",
@@ -9336,7 +8816,7 @@
         "preco": "188.88",
         "preco_comparacao": "377.77",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -9354,39 +8834,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -9694,7 +9154,7 @@
         "preco": "173.68",
         "preco_comparacao": "347.36",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -9714,38 +9174,18 @@
         "videos": [
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -10053,7 +9493,7 @@
         "preco": "144.44",
         "preco_comparacao": "288.88",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -10073,38 +9513,18 @@
         "videos": [
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
             }
         ],
         "frete": "",
@@ -10412,7 +9832,7 @@
         "preco": "183.33",
         "preco_comparacao": "366.66",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Feminino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -10432,38 +9852,18 @@
         "videos": [
             {
                 "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
+            },
+            {
+                "url": "/uploads/criador_download.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -10771,7 +10171,7 @@
         "preco": "425.00",
         "preco_comparacao": "1699.99",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Unisex",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -10790,39 +10190,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -11130,7 +10510,7 @@
         "preco": "161.04",
         "preco_comparacao": "322.09",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -11149,39 +10529,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -11489,7 +10849,7 @@
         "preco": "425.00",
         "preco_comparacao": "1699.99",
         "desconto": "75.00",
-        "categoria": "Tênis",
+        "categoria": "Unisex",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -11508,39 +10868,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d5c029727.78264602.mp4",
-                "autor": "Wallessa Gabriela",
-                "avatar": "/uploads/vcv_avatar_6a9e3e1df12286.00552065.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
@@ -11848,7 +11188,7 @@
         "preco": "142.10",
         "preco_comparacao": "284.20",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Unisex",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -11867,39 +11207,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d8030e9b7.04861517.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e409212a0.26461684.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
-                "autor": "Carla Maria",
-                "avatar": "/uploads/avatares/avatar_001.jpg"
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             }
         ],
         "frete": "",
@@ -12207,7 +11527,7 @@
         "preco": "171.95",
         "preco_comparacao": "343.90",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -12226,39 +11546,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3d83131dd9.64249525.mp4",
-                "autor": "Leticia Nunes",
-                "avatar": "/uploads/vcv_avatar_6a9e3e5a427c91.93094118.jpg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
-            },
-            {
-                "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
                 "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             },
             {
                 "url": "/uploads/criador_sw.mp4",
-                "autor": "Carla Maria",
-                "avatar": "/uploads/avatares/avatar_001.jpg"
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
+                "url": "/uploads/criador_download.mp4",
+                "autor": "Carla Maria",
+                "avatar": "/uploads/avatares/avatar_001.jpg"
             }
         ],
         "frete": "",
@@ -12566,7 +11866,7 @@
         "preco": "168.42",
         "preco_comparacao": "336.84",
         "desconto": "50.00",
-        "categoria": "Tênis",
+        "categoria": "Masculino",
         "order_bump_ativo": 0,
         "order_bump_produto_id": null,
         "promo_ativa": 0,
@@ -12584,39 +11884,19 @@
         ],
         "videos": [
             {
-                "url": "/uploads/vcv_video_6a9e3e97ba4339.21268858.mp4",
-                "autor": "Top Ofertas",
-                "avatar": "/uploads/vcv_avatar_6a9e3e6e94b566.37428737.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d8d35ee83.89280456.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3e8814b904.24768369.jpeg"
+                "url": "/uploads/criador_sw.mp4",
+                "autor": "Califórnices",
+                "avatar": "/uploads/avatares/avatar_012.jpg"
             },
             {
                 "url": "/uploads/criador_download.mp4",
-                "autor": "Juan Andrade",
-                "avatar": "/uploads/avatares/avatar_042.jpg"
-            },
-            {
-                "url": "/uploads/criador_asa.mp4",
-                "autor": "Julia e Rafael",
-                "avatar": "/uploads/avatares/avatar_048.jpg"
-            },
-            {
-                "url": "/uploads/criador_sw.mp4",
                 "autor": "Carla Maria",
                 "avatar": "/uploads/avatares/avatar_001.jpg"
             },
             {
-                "url": "/uploads/vcv_video_6a9e3d4f467e73.17805414.mp4",
-                "autor": "Goxtosa Consumista",
-                "avatar": "/uploads/vcv_avatar_6a9e3de9ae0be8.32565341.jpeg"
-            },
-            {
-                "url": "/uploads/vcv_video_6a9e3d7c3b7e45.76448650.mp4",
-                "autor": "By.marianam",
-                "avatar": "/uploads/vcv_avatar_6a9e3dff4cd365.40410118.jpeg"
+                "url": "/uploads/criador_asa.mp4",
+                "autor": "Nandy zorzan",
+                "avatar": "/uploads/avatares/avatar_006.jpg"
             }
         ],
         "frete": "",
