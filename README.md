@@ -1,77 +1,36 @@
-# TikTok Shop Funnel — Cópia Local
+# TikTok Shop Funnel
 
-Espelho idêntico do funil **loja.wwtiktokshop.com** (loja Creamy Skincare).
+Loja ASICS idêntica (HTML/CSS/JS originais) no stack do **Lovable** (Vite + TanStack Start).
 
-## Conteúdo
+Repositório: https://github.com/tremdas7777/tiktok-shop-funnel
 
-- Página da loja (`index.html`)
-- Página de produto (`produto.php`)
-- Carrinho (`cart.php`)
-- Checkout (`checkout.php`)
-- Todos os produtos, imagens, vídeos e comentários
-- Configurações da loja (`loja.json`, `produtos.json`)
-
-## Como rodar
+## Rodar local
 
 ```bash
 cd tiktok-shop-funnel
-python3 server.py
+npm install
+npm run dev
 ```
 
-Abra no navegador: **http://localhost:8765**
+Abra a URL que o Vite mostrar (geralmente `http://localhost:8080`). Home, produto, carrinho, checkout e PIX usam as mesmas páginas.
 
-## Legacy Ecom — PIX
+## Lovable
 
-Integração com a [API Legacy Ecom](https://developers.legacyecombrasil.com/docs/inicio-rapido).
+O Lovable **não importa** este repositório. O fluxo que funciona:
 
-### 1. Configure suas chaves
+1. Crie um projeto novo em [lovable.dev](https://lovable.dev).
+2. **Project settings → Git → GitHub** (o Lovable cria um repositório **novo**).
+3. Envie este código para o repositório que o Lovable criou.
+4. Em **Secrets**:
+   - `LEGACY_PUBLIC_KEY`
+   - `LEGACY_SECRET_KEY`
+   - `LEGACY_API_URL` = `https://api.legacyecombrasil.com`
+5. Clique em **Publish**.
 
-Edite `legacy-config.json`:
+O visual não foi reescrito em React: as páginas em `public/` são as mesmas da loja.
 
-```json
-{
-  "public_key": "pk_live_xxxx",
-  "secret_key": "sk_live_yyyy",
-  "api_url": "https://api.legacyecombrasil.com",
-  "webhook_url": "https://seu-dominio.com/webhooks/legacy",
-  "is_physical_product": true
-}
-```
+## PIX
 
-> KYC aprovado no Dashboard Legacy é obrigatório para produção.
+No Lovable, as chaves ficam nos Secrets — nunca no código.
 
-### 2. Fluxo
-
-1. Cliente finaliza checkout → `POST /pix_teste.php`
-2. Servidor chama `POST /payin` na Legacy com PIX
-3. QR Code é exibido em `payment.php`
-4. Confirmação chega via webhook em `/webhooks/legacy`
-
-### 3. Webhook local (teste)
-
-Use [ngrok](https://ngrok.com) ou similar:
-
-```bash
-ngrok http 8765
-# Cole a URL pública + /webhooks/legacy em webhook_url
-```
-
-## Observações
-
-- **Rastreamento**: scripts do Rabbtify foram mantidos; remova se quiser.
-- **Personalizar**: edite `loja.json` e `produtos.json`.
-
-## Estrutura
-
-```
-tiktok-shop-funnel/
-├── index.html          # Vitrine da loja
-├── produto.php         # Página de produto
-├── cart.php            # Carrinho
-├── checkout.php        # Checkout
-├── loja.json           # Config da loja
-├── produtos.json       # Catálogo completo
-├── uploads/            # Imagens e vídeos
-├── assets/             # Ícones TikTok Shop
-└── server.py           # Servidor local
-```
+Localmente, o PIX ainda lê `legacy-config.json` (arquivo ignorado pelo git).

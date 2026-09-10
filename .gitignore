@@ -6,3 +6,22 @@ __pycache__/
 index.html.new
 .cursor/
 agent-tools/
+
+# Lovable / Node
+logs
+*.log
+node_modules
+dist
+dist-ssr
+.output
+.vinxi
+.tanstack/**
+.nitro
+*.local
+.env
+.env.local
+.wrangler/
+.dev.vars
+.vscode/*
+!.vscode/extensions.json
+.idea
